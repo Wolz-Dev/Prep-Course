@@ -1,5 +1,16 @@
+body {
+  background: url("https://media.istockphoto.com/photos/pepperoni-pizza-on-black-slate-background-picture-id1139597690?k=20&m=1139597690&s=170667a&w=0&h=3CwdxYVidqELszbEGpLKaQWB5ZMuFtHEPz9higABO6U=")
+    no-repeat center;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
 h1 {
-  color: crimson;
+  color: yellow;
 }
 
 img {
@@ -12,9 +23,14 @@ img {
   background-color: black;
   padding: 50px;
   border: solid blue 2px;
+  margin-top: 20px;
 }
 
 #spanId {
   font-size: 18px;
   margin: 50px;
+}
+
+.divClass {
+  text-align: center;
 }
