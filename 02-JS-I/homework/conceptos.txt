@@ -1,0 +1,15 @@
+* Variables
+Una variables es un tipo de dato que podemos almacenar y puede ir cambiando en la ejecucuion del algoritmo
+
+* Strings
+Es el tipo de dato para las letras, mas de 1 string es una cadena de strings
+
+* Funciones (argumentos, `return`)
+Una funcion es un pedazo de codigo que podemos reutilizar, los argumentos de las funciones son variables que podemos usar dentro de la funcion
+
+* Declaraciones `if`
+If es una declaracion de comparacion, si un dato es lo que comparamos, procedemos a devolver algo, sino (else) hacemos otra cosa
+
+* Valores booleanos (`true`, `false`)
+True = verdadero, False = falso, podemos usar los tipos de datos booleanos por ejemplo dentro de una declaracion IF para saber si lo que comparamos es el dato que queremos (true), de lo contrario (false)
+
