@@ -1,0 +1,9 @@
+for
+Es una estructura de datos, (para) que nos sirve para recorrer un array, indicando la cantidad de veces que recorrera la variable y como incrementara o decrementara su valor
+
+
+&&, ||, !
+son operadores logicos, 
+&& => (and) nos sirve a la hora de comprar datos, si un dato y otro dato son los indicados en la comparacion, el resultado es true
+|| => (or) nos sirve a la hora de comprar datos, si un dato u otro dato son los indicados el resutlado es true
+! => (not) nos siver para comparar datos, significa "distinto", si el dato es distinto del otro el resultado es true
