@@ -1,0 +1,14 @@
+* Objetos
+Los objetos son una coleccion de propiedades, (key y value) pueden tener cualquier tipo de dato
+
+* Propiedades
+son los vallores llave que posee un objeto, una caracterisitca. por ejemplo en un objeto persona, una propiedad podria ser su nombre 
+
+* Métodos
+Los metosos son funciones dentro de los objetos 
+
+* Bucle `for…in`
+Un bucle de iteracion similar al for, pero para elementos
+
+* Notación de puntos vs notación de corchetes
+La notacion de corchetes sirve para acceder a una propiedad de un elemento, por ejemplo persona[´nombre´], es lo mismo que usar notacion de puntos, es mas facil de escribir persona.nombre  
