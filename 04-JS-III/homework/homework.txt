@@ -1,0 +1,3 @@
+Array=
+
+Un array es una coleccion de elementos, esos elementos pueden ser de cualqueir tipo de datos (null, number, boolean, funcion, etc).
