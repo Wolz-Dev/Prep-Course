@@ -1,0 +1,6 @@
+* prototype
+Los prototipos son un mecanismo mediante el cual los objetos en JavaScript heredan características entre sí, y cada metodo de JavaScript por ejemplo push() esta definido en el prototype de array. 
+
+* _Constructors_ (de Clases)
+Es una funcion que nos permitira construir objetos
+El método constructor es un metodo especial para crear e inicializar un objeto creado a partir de una clase.
